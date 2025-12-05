@@ -1,0 +1,56 @@
+body {
+    max-height: 200%;
+    background: #2448ff;
+    background: radial-gradient(circle, rgba(36, 72, 255, 1) 0%, rgba(128, 0, 255, 1) 32%, rgba(255, 0, 77, 1) 100%);
+}
+
+.Impact{
+    background: rgb(55, 0, 255);
+    font-size: large;
+    font-family: Impact;
+    text-decoration: solid rgb(0, 37, 0);
+    padding: 20px 60px 20px 60px;
+    margin: 0px 10px;
+    border: 1px solid rgb(170, 0, 192);;
+}
+
+.Georgia{
+    background: rgb(55, 0, 255);
+    font-size: large;
+    font-family: Georgia;
+    text-decoration: solid rgb(0, 37, 0);
+    padding: 20px 60px 20px 60px;
+    margin: 0px 10px;
+    border: 1px solid rgb(170, 0, 192);;
+}
+
+.Serif{
+    background: rgb(55, 0, 255);
+    font-size: large;
+    font-family: Serif;
+    text-decoration: solid rgb(0, 37, 0);
+    padding: 20px 60px 20px 60px;
+    margin: 0px 10px;
+    border: 1px solid rgb(170, 0, 192);;
+}
+
+.Arial{
+    background: rgb(55, 0, 255);
+    font-size: large;
+    font-family: Arial;
+    text-decoration: solid rgb(0, 37, 0);
+    padding: 20px 60px 20px 60px;
+    margin: 0px 10px;
+    border: 1px solid rgb(170, 0, 192);;
+}
+
+.Roman{
+    background: rgb(55, 0, 255);
+    font-size: large;
+    font-family: TimesNewRoman;
+    text-decoration: solid rgb(0, 37, 0);
+    padding: 20px 60px 20px 60px;
+    margin: 0px 10px;
+    border: 1px solid rgb(170, 0, 192);;
+}
+
