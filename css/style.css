@@ -7,7 +7,8 @@ body {
 .Impact{
     background: rgb(55, 0, 255);
     font-size: large;
-    font-family: Impact;
+    font-family: "BBH Hegarty", sans-serif;
+    font-weight: 400;
     text-decoration: solid rgb(0, 37, 0);
     padding: 20px 60px 20px 60px;
     margin: 0px 10px;
@@ -17,7 +18,7 @@ body {
 .Georgia{
     background: rgb(55, 0, 255);
     font-size: large;
-    font-family: Georgia;
+    font-family: "Sniglet", system-ui;
     text-decoration: solid rgb(0, 37, 0);
     padding: 20px 60px 20px 60px;
     margin: 0px 10px;
@@ -27,7 +28,7 @@ body {
 .Serif{
     background: rgb(55, 0, 255);
     font-size: large;
-    font-family: Serif;
+    font-family: "PT Serif", serif;
     text-decoration: solid rgb(0, 37, 0);
     padding: 20px 60px 20px 60px;
     margin: 0px 10px;
@@ -37,7 +38,7 @@ body {
 .Arial{
     background: rgb(55, 0, 255);
     font-size: large;
-    font-family: Arial;
+    font-family: "Roboto", sans-serif;
     text-decoration: solid rgb(0, 37, 0);
     padding: 20px 60px 20px 60px;
     margin: 0px 10px;
@@ -47,7 +48,7 @@ body {
 .Roman{
     background: rgb(55, 0, 255);
     font-size: large;
-    font-family: TimesNewRoman;
+    font-family: "Playfair Display", serif;
     text-decoration: solid rgb(0, 37, 0);
     padding: 20px 60px 20px 60px;
     margin: 0px 10px;
